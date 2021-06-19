@@ -98,6 +98,6 @@ Camtu la lebih kurang, serba sedikit pasal aku.
 Masih ada banyak benda yang aku kena belajar, masih jauh lagi perjalanan.
 
 Lagi banyak kita belajar, lagi banyak yang kita tak tahu.
-[Dunning-Kruger Effect](./dunning-kruger-effect,png)
+[Dunning-Kruger Effect](./dunning-kruger-effect.png)
 
 Assalamualaikum.
