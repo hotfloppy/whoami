@@ -49,7 +49,7 @@ Tapi guna pun takde la sepenuhnya, lebih kepada sebagai alat untuk backup data-d
 
 # Perjalanan (Gamehacking Pt 1)
 
-Antara sebab aku tak fully guna Linux masa tu (not even dual boot) adalah sebab tengah aktif aktiviti gametrainig/gamehacking dengan beberapa orang kawan.
+Antara sebab aku tak fully guna Linux masa tu (not even dual boot) adalah sebab tengah active aktiviti gametraining/gamehacking dengan beberapa orang kawan.
 
 *(Tak pasti ada local gamehacking scene ke tak zaman tu.)*
 
